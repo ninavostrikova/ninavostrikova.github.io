@@ -4,3 +4,6 @@
 [submodule "safe_driving"]
 	path = safe_driving
 	url = https://github.com/ninavostrikova/safe_driving.git
+[submodule "garbage_sorting"]
+	path = garbage_sorting
+	url = https://github.com/ninavostrikova/garbage_sorting.git
