@@ -1,3 +1,6 @@
 [submodule "inspiring_leader"]
 	path = inspiring_leader
 	url = https://github.com/ninavostrikova/inspiring_leader.git
+[submodule "safe_driving"]
+	path = safe_driving
+	url = https://github.com/ninavostrikova/safe_driving.git
