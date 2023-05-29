@@ -7,3 +7,6 @@
 [submodule "garbage_sorting"]
 	path = garbage_sorting
 	url = https://github.com/ninavostrikova/garbage_sorting.git
+[submodule "garbage_sorting_eng"]
+	path = garbage_sorting_eng
+	url = https://github.com/ninavostrikova/garbage_sorting_eng
